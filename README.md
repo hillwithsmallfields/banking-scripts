@@ -12,10 +12,11 @@ Android, I think it's time to script it some more.
 Aims
 ----
 
-The scripts in here should eventually pick up files dumped by
-Financisto via Dropbox, and files saved from my bank's online banking
-facility, merge them both into the format I've been using for a few
-years, and reconcile my spending records and my bank statements.
+The scripts in here pick up files dumped by Financisto via Dropbox,
+and files saved from my bank's online banking facility, and should
+eventually merge them both into a format similar to the one I've been
+using for a few years, reconciling my spending records and my bank
+statements.
 
 Design
 ------
